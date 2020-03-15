@@ -1,0 +1,9 @@
+.cs142-userList-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.cs142-userList-listItem {
+  flex-shrink: 100;
+}

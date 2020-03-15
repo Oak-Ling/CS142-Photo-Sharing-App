@@ -1,0 +1,14 @@
+.cs142-userDetail-container {
+  display: flex;
+  justify-content: center;
+}
+
+.cs142-userDetail-link {
+  color: rebeccapurple;
+  margin-bottom: 10px;
+}
+
+#cs142-userDetail-text {
+  margin-left: 15px;
+  margin-top: 10px;
+}

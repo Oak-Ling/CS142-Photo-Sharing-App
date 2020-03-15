@@ -1,0 +1,21 @@
+#cs142-favoriteList-fileName {
+  margin-left: 10px;
+}
+
+.cs142-modal-time {
+  text-align: center;
+}
+
+#cs142-modal-close {
+  text-align: center;
+}
+
+#cs142-modal-image {
+  max-height: 330px;
+}
+
+.cs142-modal-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

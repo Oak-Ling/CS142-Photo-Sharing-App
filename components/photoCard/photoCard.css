@@ -1,0 +1,16 @@
+.cs142-photoCard-link {
+  text-decoration: none;
+}
+
+.cs142-photoCard-dialog{
+
+}
+
+.cs142-photoCard-container{
+  display: flex;
+  justify-content: left;
+}
+
+.cs142-photoCard-comment-header {
+  flex-grow: 1;
+}

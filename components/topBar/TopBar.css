@@ -1,0 +1,38 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: center;
+}
+
+#cs142-topbar-container {
+  display: flex;
+  align-items: center;
+}
+
+#cs142-topbar-container .cs142-topbar-welcome {
+  margin-right: 20px;
+}
+
+#cs142-topbar-container .cs142-topbar-logout {
+  margin-right: 20px;
+}
+
+#cs142-topbar-container .cs142-topbar-version {
+  margin-right: 10px;
+}
+
+#cs142-topbar-container .cs142-topbar-checkbox {
+  /*flex-grow: 1;*/
+}
+
+#cs142-topbar-container .cs142-topbar-input {
+  /*flex-grow: 1;*/
+}
+
+#cs142-topbar-container .cs142-topbar-upload {
+  margin-right: 20px;
+}
+
+#cs142-topbar-container .cs142-topbar-user {
+  /*margin-right: auto;*/
+}
+
